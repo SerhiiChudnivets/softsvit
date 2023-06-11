@@ -23,12 +23,12 @@ function isElementOnScreen(elementId) {
 let earth = document.getElementById("sphereDesktop").animate(
     [
       { transform: "translate(0) scale(1)", opacity: 1 },
-      { transform: "translate(400px,600px) scale(1.25)", opacity: 0.7 },
+        { transform: "translate(400px,600px) scale(1.25)", opacity: 0.7 },
       { transform: "translate(-800px,800px) scale(0.75)", opacity: 0.5 },
     ],
     {
       fill: "forwards",
-      duration: 5000,
+      duration: 2000,
         easing: "ease-in-out",
     }
 );
@@ -42,7 +42,7 @@ let rotation = document.getElementById("sphereDesktopImg").animate(
     {
         fill: "forwards",
         iterations: Infinity,
-        duration: 10000,
+        duration: 5000,
     }
 );
 rotation.pause()

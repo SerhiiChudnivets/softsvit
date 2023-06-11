@@ -23,13 +23,13 @@ function isElementOnScreen(elementId) {
 let earth = document.getElementById("sphereDesktop").animate(
     [
       { transform: "translate(0) scale(1)", opacity: 1 },
-        { transform: "translate(200px,600px) scale(1.25)", opacity: 0.7 },
-      { transform: "translate(-800px,800px) scale(0.75)", opacity: 0.5 },
+        { transform: "translate(170px,600px) scale(1.4)", opacity: 0.7 },
+        { transform: "translate(-800px,800px) scale(0.75)", opacity: 0.5 },
     ],
     {
       fill: "forwards",
       duration: 2000,
-        easing: "cubic-bezier(1 ,0.9, 0.8, 0.9)",
+        easing: "cubic-bezier(0.9,0.9,0.5,0.5)",
     }
 );
 earth.pause();

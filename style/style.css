@@ -33,7 +33,7 @@ body .sphere-box {
 
 body .sphere-box .sphere {
   width: 100%;
-  transition: all 0.2s ease-out;
+  /*transition: all 0.2s ease-out;*/
 }
 @media screen and (max-width: 1200px) {
   body .sphere-box {

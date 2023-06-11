@@ -1,0 +1,110 @@
+{
+    "id": 103,
+    "date": "2023-05-30T23:12:30",
+    "date_gmt": "2023-05-30T20:12:30",
+    "guid": {
+      "rendered": "https://example.com/?p=103"
+    },
+    "modified": "2023-05-31T10:10:55",
+    "modified_gmt": "2023-05-31T07:10:55",
+    "slug": "junior-internet-marketer",
+    "status": "publish",
+    "type": "post",
+    "link": "https://example.com/junior-internet-marketer/",
+    "title": {
+      "rendered": "Junior Internet Marketer"
+    },
+    "content": {
+      "rendered": "<p><span style=\"font-weight: 400;\">Ми компанія, що спеціалізується на розробці власних продуктів в галузі ІТ. Наша команда активно займається створенням, просуванням та підтримкою продукту. В тебе є чудова можливість долучитись до команди SoftSvit у ролі Junior Internet Marketer-a.</span></p>\n<p><strong>Дуже очікуємо від тебе:</strong></p>\n<ul>\n<li>Ти впевнений користувач інтернету та пошукової мережі Google;</li>\n<li>Виконання монотонних завдань не є для тебе проблемою;</li>\n<li>Володіння базовими знаннями Google Sheets або Microsoft Excel;</li>\n<li>Відповідальний та уважний підхід до справи, до завдань від керівника;</li>\n<li>Велике бажання слухати та вчитися;</li>\n</ul>\n<p><b>Буде перевагою:</b></p>\n<ul>\n<li>Теоретичні або практичні знання щодо роботи із гугл акаунтом, сервісом Google Ads.</li>\n</ul>\n<p><strong>Твої ключові задачі:</strong></p>\n<ul>\n<li>Запуск рекламних кампаній на платформі Google Ads та їх технічний супровід по готовому плану від керівника.</li>\n</ul>\n<p><strong>На нашій стороні:</strong></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Сучасний офіс поруч з метро.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Графік роботи, з понеділка по п&#8217;ятницю з 10:00 до 19:00.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Ти потрапиш у молодий та дружній колектив, де панує сприятлива атмосфера співпраці та підтримки.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">На території офісу є кафе, де ти зможеш смачно перекусити під час робочого дня.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">У SoftSvit ми цінуємо розвиток наших співробітників, тому ти матимеш можливість кар&#8217;єрного та професійного зростання.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Забезпечуємо офіційне працевлаштування, а також оплачуємо  відпустки та лікарняні.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Щотижневі тімбілдинги з піцою, напоями та колегами у неформальній атмосферіі.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">В нашій команді ми підтримуємо активний спосіб життя, тому щотижня ми граємо у волейбол, футбол та баскетбол разом.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Медичне страхування та корпоративний лікар для забезпечення твого фізичного та ментального здоров’я.</span></li>\n</ul>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Ми компанія, що спеціалізується на розробці власних продуктів в галузі ІТ. Наша команда активно займається створенням, просуванням та підтримкою продукту. В тебе є чудова можливість долучитись до команди SoftSvit у ролі Junior Internet Marketer-a.Дуже очікуємо від тебе: Ти впевнений користувач інтернету та пошукової мережі Google; Виконання монотонних завдань не є для тебе проблемою; Володіння&hellip; <a class=\"more-link\" href=\"https://example.com/junior-internet-marketer/\">Читати далі <span class=\"screen-reader-text\">Junior Internet Marketer</span></a></p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      13
+    ],
+    "tags": [
+      27
+    ],
+    "acf": [],
+    "lang": "uk",
+    "translations": {
+      "uk": 103
+    },
+    "pll_sync_post": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://example.com/wp-json/wp/v2/posts/103"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://example.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://example.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://example.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://example.com/wp-json/wp/v2/comments?post=103"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://example.com/wp-json/wp/v2/posts/103/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 104,
+          "href": "https://example.com/wp-json/wp/v2/posts/103/revisions/104"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://example.com/wp-json/wp/v2/media?parent=103"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://example.com/wp-json/wp/v2/categories?post=103"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://example.com/wp-json/wp/v2/tags?post=103"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }

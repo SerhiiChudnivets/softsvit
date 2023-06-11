@@ -1,12 +1,5 @@
-const debouncedScroll = debounce(handleScroll, 200);
-function debounce(func, delay) {
-    let timerId;
-    return function() {
-        clearTimeout(timerId);
-        timerId = setTimeout(func, delay);
-    };
-}
-window.addEventListener('scroll', debouncedScroll);
+
+window.addEventListener('scroll', handleScroll);
 function isElementOnScreen(elementId) {
   var element = document.getElementById(elementId);
   if (!element) {
